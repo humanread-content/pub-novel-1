@@ -1,0 +1,8 @@
+accent_color: '#b85c3d'
+drop_cap: false
+font: serif
+font_size: 18
+line_height: '2.0'
+paragraph_spacing: '1.4'
+scene_break: line
+text_align: left
