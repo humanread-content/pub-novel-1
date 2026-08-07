@@ -7,6 +7,7 @@ summary: A complete and faithful English translation of Luo Guanzhong’s Romanc
   loyalties, brilliant strategists, and heroes whose ambitions reshape China.
 cover_color: '#8B1E1E'
 cover_asset: assets/6ce6abf585d0e0588754d05a65a5766d3b0fc8f3acb70e926197515a4ac4790b.webp
+share_card: share/book.webp
 author: Humanread Founder
 metadata:
   age_rating: all
@@ -29,682 +30,802 @@ chapters:
   position: 1
   file: chapters/0001-1.html
   format: sanitized-html
+  share_card: null
 - id: 2
   title: Zhang Fei Whips the Inspector in Anger; Imperial Uncle He Plots to Execute
     the Eunuchs
   position: 2
   file: chapters/0002-2.html
   format: sanitized-html
+  share_card: null
 - id: 3
   title: Deliberation at Wenming, Dong Zhuo Rebukes Ding Yuan, and Li Su Gifts Red-Jewel
     Treasures to Persuade Lü Bu
   position: 3
   file: chapters/0003-3.html
   format: sanitized-html
+  share_card: null
 - id: 4
   title: The Han Emperor Is Deposed and the King of Chenliu Made Emperor; Cao Cao
     Offers the Treasured Sword
   position: 4
   file: chapters/0004-4.html
   format: sanitized-html
+  share_card: null
 - id: 5
   title: False Edicts Summon the Provinces to Aid Cao; Three Heroes at Guan Gate Defeat
     Lü Bu
   position: 5
   file: chapters/0005-5.html
   format: sanitized-html
+  share_card: null
 - id: 6
   title: The Jade Hall Burns as Dong Zhuo Turns Violent, and Sun Jian Conceals the
     Imperial Seal, Then Breaks His Word
   position: 6
   file: chapters/0006-6.html
   format: sanitized-html
+  share_card: null
 - id: 7
   title: Yuan Shao Battles Gongsun at Pan River; Sun Jian Crosses the River to Strike
     Liu Biao
   position: 7
   file: chapters/0007-7.html
   format: sanitized-html
+  share_card: null
 - id: 8
   title: Minister Wang the Grand Strategist Wields a Linked Stratagem; Master Dong
     Roils Fengyi Pavilion
   position: 8
   file: chapters/0008-8.html
   format: sanitized-html
+  share_card: null
 - id: 9
   title: Lü Bu Dismantles a Tyrant, Assists the Chancellor, and Li Jue Hears Jia Xu
   position: 9
   file: chapters/0009-9.html
   format: sanitized-html
+  share_card: null
 - id: 10
   title: The Loyal Vassals of the Court, Ma Teng Rises in Righteous Valor, and Cao
     Cao Raises the Army to Avenge His Father
   position: 10
   file: chapters/0010-10.html
   format: sanitized-html
+  share_card: null
 - id: 11
   title: Liu, the Imperial Uncle, Saves Kong Rong at Beihai; Lord Lü Wen of Puyang
     Breaks Cao Cao
   position: 11
   file: chapters/0011-11.html
   format: sanitized-html
+  share_card: null
 - id: 12
   title: Tao Gongzu Gives Up Xu Province Three Times; Cao Mengde Fights Lü Bu
   position: 12
   file: chapters/0012-12.html
   format: sanitized-html
+  share_card: null
 - id: 13
   title: Li Jue and Guo Si Clash; Yang Feng and Dong Cheng Together Rescue the Imperial
     Carriage
   position: 13
   file: chapters/0013-13.html
   format: sanitized-html
+  share_card: null
 - id: 14
   title: Cao Mengde Moves the Imperial Carriage to Xuandu; Lü Fengxian Makes a Night
     Assault on Xuzhou
   position: 14
   file: chapters/0014-14.html
   format: sanitized-html
+  share_card: null
 - id: 15
   title: Taishi Ci Fights the Little Conqueror; Sun Bofu Battles Yan Baihu
   position: 15
   file: chapters/0015-15.html
   format: sanitized-html
+  share_card: null
 - id: 16
   title: Lü Bu, Fengxian, Shoots the Halberd at the Gate, and Cao Mengde Is Defeated
     at the Yi River
   position: 16
   file: chapters/0016-16.html
   format: sanitized-html
+  share_card: null
 - id: 17
   title: Yuan Gonglu Raises Seven Armies, and Cao Mengde Unites Three Generals
   position: 17
   file: chapters/0017-17.html
   format: sanitized-html
+  share_card: null
 - id: 18
   title: 'Jia Xu Reads the Enemy’s Moves and Decides Victory: Xiahou Dun Draws an
     Arrow Through His Eye and Swallows It'
   position: 18
   file: chapters/0018-18.html
   format: sanitized-html
+  share_card: null
 - id: 19
   title: At Xiapi City, Cao Cao Waged Battle; Lü Bu Fell at the White Gate Tower
   position: 19
   file: chapters/0019-19.html
   format: sanitized-html
+  share_card: null
 - id: 20
   title: Cao the Deceiver’s Encirclement at Xu Field and Chancellor Dong’s Reception
     of the Imperial Command
   position: 20
   file: chapters/0020-20.html
   format: sanitized-html
+  share_card: null
 - id: 21
   title: Cao Cao Weighs Heroes over Boiled Wine; Guan Yu Captures a City and Beheads
     Che Zuo
   position: 21
   file: chapters/0021-21.html
   format: sanitized-html
+  share_card: null
 - id: 22
   title: Yuan and Cao Each Raise Horse and Foot Armies; Guan Yu and Zhang Fei Jointly
     Capture Generals Wang Zhong and Liu Dai
   position: 22
   file: chapters/0022-22.html
   format: sanitized-html
+  share_card: null
 - id: 23
   title: Ni Heng, Bare of Garments, Curses the Traitor, and Master Ji Dies from His
     Failed Poisoning
   position: 23
   file: chapters/0023-23.html
   format: sanitized-html
+  share_card: null
 - id: 24
   title: The Treacherous Court Scion's Outrage and the Death of the Imperial Consort;
     The Imperial Uncle Flees to Yuan Shao
   position: 24
   file: chapters/0024-24.html
   format: sanitized-html
+  share_card: null
 - id: 25
   title: Guan Yu Camps on the Earthen Mound and Swears Three Conditions; Guan Yunchang
     Saves Baima and Cao Cao Relieves the Encirclement
   position: 25
   file: chapters/0025-25.html
   format: sanitized-html
+  share_card: null
 - id: 26
   title: Yuan Shao Breaks His Army; Guan Yu Hangs Up His Seal
   position: 26
   file: chapters/0026-26.html
   format: sanitized-html
+  share_card: null
 - id: 27
   title: The Bearded Hero Rides a Thousand Li Alone
   position: 27
   file: chapters/0027-27.html
   format: sanitized-html
+  share_card: null
 - id: 28
   title: Guan Yu Beheads Cai Yang’s Kinsman and Reunites at Gucheng
   position: 28
   file: chapters/0028-28.html
   format: sanitized-html
+  share_card: null
 - id: 29
   title: The Little Conqueror Strikes Yu Ji
   position: 29
   file: chapters/0029-29.html
   format: sanitized-html
+  share_card: null
 - id: 30
   title: 'Battle at Guandu: Benchu’s Reversal and Mengde Burns Wuchao’s Grain Stores'
   position: 30
   file: chapters/0030-30.html
   format: sanitized-html
+  share_card: null
 - id: 31
   title: At Cangting, Cao Cao Defeats Benchu; In Jingzhou, Xuande Seeks Refuge with
     Liu Biao
   position: 31
   file: chapters/0031-31.html
   format: sanitized-html
+  share_card: null
 - id: 32
   title: Yuan Shang Contests Jizhou, and Xu You’s Stratagem by the Zhang River
   position: 32
   file: chapters/0032-32.html
   format: sanitized-html
+  share_card: null
 - id: 33
   title: Cao Pi Took Lady Zhen in Turmoil, and Guo Jia's Plot Settled Liaodong
   position: 33
   file: chapters/0033-33.html
   format: sanitized-html
+  share_card: null
 - id: 34
   title: Lady Cai Eavesdropped Behind a Screen, and Liu, the Imperial Uncle, Leapt
     His Horse Across Tan Creek
   position: 34
   file: chapters/0034-34.html
   format: sanitized-html
+  share_card: null
 - id: 35
   title: Liu Bei Meets a Recluse in South Nanzhang, Dan Fu Meets the Hero-Lord in
     Xinye
   position: 35
   file: chapters/0035-35.html
   format: sanitized-html
+  share_card: null
 - id: 36
   title: Xuande Takes Fan City by Stratagem; Yuanzhi Rides Off to Recommend Zhuge
     Liang
   position: 36
   file: chapters/0036-36.html
   format: sanitized-html
+  share_card: null
 - id: 37
   title: Sima Hui Again Recommends the Worthy, and Liu Bei Visits the Thatched Cottage
     Three Times
   position: 37
   file: chapters/0037-37.html
   format: sanitized-html
+  share_card: null
 - id: 38
   title: The Longzhong Strategy Sets the Three Kingdoms; War on the Yangtze for the
     Sun Clan’s Vengeance
   position: 38
   file: chapters/0038-38.html
   format: sanitized-html
+  share_card: null
 - id: 39
   title: In Jingzhou City the Prince Seeks Counsel Three Times, and at Bowang Slope
     the Military Strategist Takes His First Battle Command
   position: 39
   file: chapters/0039-39.html
   format: sanitized-html
+  share_card: null
 - id: 40
   title: Lady Cai Debates Surrendering Jing Province, and Zhuge Liang Burns Xinye
   position: 40
   file: chapters/0040-40.html
   format: sanitized-html
+  share_card: null
 - id: 41
   title: Liu Xuande Leads the People Across the River and Zhao Zilong Rescues His
     Lord Alone
   position: 41
   file: chapters/0041-41.html
   format: sanitized-html
+  share_card: null
 - id: 42
   title: Zhang Yide Rages at Changban Bridge; Liu Yuzhou Is Driven to Hanjin Ford
   position: 42
   file: chapters/0042-42.html
   format: sanitized-html
+  share_card: null
 - id: 43
   title: Zhuge Liang Debates the Gathered Scholars; Lu Su Rejects the Crowd’s Counsel
   position: 43
   file: chapters/0043-43.html
   format: sanitized-html
+  share_card: null
 - id: 44
   title: Zhuge Liang Stirs Zhou Yu, and Sun Quan Decides to Move Against Cao Cao
   position: 44
   file: chapters/0044-44.html
   format: sanitized-html
+  share_card: null
 - id: 45
   title: At Three-River Ford, Cao Cao’s Army Is Checked and the Heroes’ Assembly Traps
     Jiang Gan
   position: 45
   file: chapters/0045-45.html
   format: sanitized-html
+  share_card: null
 - id: 46
   title: 'Zhuge Liang’s Witty Stratagem: Borrowing Arrows, and Huang Gai’s Secret
     Plot'
   position: 46
   file: chapters/0046-46.html
   format: sanitized-html
+  share_card: null
 - id: 47
   title: Kan Ze Secretly Submits a Feigned Surrender, and Pang Tong Cunningly Deploys
     the Linked-Chain Plan
   position: 47
   file: chapters/0047-47.html
   format: sanitized-html
+  share_card: null
 - id: 48
   title: Cao Cao Recites a Poem While Banqueting on the Yangtze; The Northern Army
     Fastens its Warships and Sets Out
   position: 48
   file: chapters/0048-48.html
   format: sanitized-html
+  share_card: null
 - id: 49
   title: The Seven-Star Altar and the Fire at Sanjiangkou
   position: 49
   file: chapters/0049-49.html
   format: sanitized-html
+  share_card: null
 - id: 50
   title: Zhuge Liang’s Precise Stratagem at Hua Rong, and Guan Yu’s Righteous Release
     of Cao Cao
   position: 50
   file: chapters/0050-50.html
   format: sanitized-html
+  share_card: null
 - id: 51
   title: Cao Ren Battles the Eastern Wu Army; Kongming Provokes Zhou Gongjin for the
     First Time
   position: 51
   file: chapters/0051-51.html
   format: sanitized-html
+  share_card: null
 - id: 52
   title: Zhuge Liang's Clever Words to Lu Su, Zhao Zilong's Plan to Take Guiyang
   position: 52
   file: chapters/0052-52.html
   format: sanitized-html
+  share_card: null
 - id: 53
   title: Guan Yunchang Righteously Releases Huang Hansheng; Sun Zhongmou Battles Zhang
     Wenyuan
   position: 53
   file: chapters/0053-53.html
   format: sanitized-html
+  share_card: null
 - id: 54
   title: Lady Wu’s Temple Visit and Liu the Imperial Uncle’s Bridal Chamber
   position: 54
   file: chapters/0054-54.html
   format: sanitized-html
+  share_card: null
 - id: 55
   title: Liu Bei Cleverly Angers Lady Sun; Zhuge Liang Unleashes a Second Stratagem
     Against Zhou Gongjin
   position: 55
   file: chapters/0055-55.html
   format: sanitized-html
+  share_card: null
 - id: 56
   title: Cao Cao Holds a Great Banquet at Bronze Sparrow Terrace; Zhuge Liang Angers
     Zhou Gongjin Thrice
   position: 56
   file: chapters/0056-56.html
   format: sanitized-html
+  share_card: null
 - id: 57
   title: At Chaisang, Sleeping Dragon Mourns; In Leiyang, Young Phoenix Administers
     Affairs
   position: 57
   file: chapters/0057-57.html
   format: sanitized-html
+  share_card: null
 - id: 58
   title: Ma Chao Raises an Army to Settle His Grievance, and Cao Cao Cuts His Beard
     and Casts Off His Robe
   position: 58
   file: chapters/0058-58.html
   format: sanitized-html
+  share_card: null
 - id: 59
   title: Xu Chu, in Plain Garb, Fights Ma Chao; Cao Cao Blurs a Letter to Han Sui
   position: 59
   file: chapters/0059-59.html
   format: sanitized-html
+  share_card: null
 - id: 60
   title: Zhang Yongnian Challenges Yang Xiu, Pang Shiyuan Debates Taking Western Shu
   position: 60
   file: chapters/0060-60.html
   format: sanitized-html
+  share_card: null
 - id: 61
   title: Zhao Yun Intercepts the River and Recovers A-dou; Sun Quan’s Secret Letter
     to Send Away Lao Man
   position: 61
   file: chapters/0061-61.html
   format: sanitized-html
+  share_card: null
 - id: 62
   title: 'Seizing Fu Pass: Yang Huai and Gao Pei Are Beheaded; Seizing Luo City, Huang
     Zhong and Wei Yan Strive for Merit'
   position: 62
   file: chapters/0062-62.html
   format: sanitized-html
+  share_card: null
 - id: 63
   title: Zhuge Liang Wept for Pang Tong; Zhang Fei Righteously Spared Yan Yan
   position: 63
   file: chapters/0063-63.html
   format: sanitized-html
+  share_card: null
 - id: 64
   title: Kongming devises a plan to catch Zhang Ren, and Yang Fu raises troops to
     crush Ma Chao
   position: 64
   file: chapters/0064-64.html
   format: sanitized-html
+  share_card: null
 - id: 65
   title: Ma Chao’s Great Battle at Jiameng Pass, and Liu Bei Assumes the Yizhou Governorship
   position: 65
   file: chapters/0065-65.html
   format: sanitized-html
+  share_card: null
 - id: 66
   title: Guan Yu Meets the Summons with a Single Sword; Empress Fu Gives Her Life
     for the State
   position: 66
   file: chapters/0066-66.html
   format: sanitized-html
+  share_card: null
 - id: 67
   title: Cao Cao Pacifies Hanzhong, and Zhang Liao Strikes Fear at Xiaoyao Ford
   position: 67
   file: chapters/0067-67.html
   format: sanitized-html
+  share_card: null
 - id: 68
   title: Gan Ning and One Hundred Riders Raid the Wei Camp; Zuo Ci Throws a Cup at
     Cao Cao
   position: 68
   file: chapters/0068-68.html
   format: sanitized-html
+  share_card: null
 - id: 69
   title: Guan Lu Divines the Turning Point; Five Loyal Ministers Die for the Han Cause
   position: 69
   file: chapters/0069-69.html
   format: sanitized-html
+  share_card: null
 - id: 70
   title: Zhang Fei’s Sudden Victory at Wakou Pass and Elder Huang Zhong’s Plan for
     Tiandang Mountain
   position: 70
   file: chapters/0070-70.html
   format: sanitized-html
+  share_card: null
 - id: 71
   title: Huang Zhong Takes the Opposing Mountain, and Zhao Yun Holds at the Han River
   position: 71
   file: chapters/0071-71.html
   format: sanitized-html
+  share_card: null
 - id: 72
   title: Zhuge Liang Takes Hanzhong by Stratagem; Cao A'man Withdraws His Army through
     Xie Valley
   position: 72
   file: chapters/0072-72.html
   format: sanitized-html
+  share_card: null
 - id: 73
   title: Liu Bei Ascends as King of Han and Yunchang Attacks Xiangyang Commandery
   position: 73
   file: chapters/0073-73.html
   format: sanitized-html
+  share_card: null
 - id: 74
   title: Pang De Raises a Coffin to Fight to the Death, and Guan Yu Unleashes the
     Flood to Swallow Seven Armies
   position: 74
   file: chapters/0074-74.html
   format: sanitized-html
+  share_card: null
 - id: 75
   title: Guan Yu Scrapes the Bone to Cure Poison, and Lu Ziming Crosses the River
     in White Garb
   position: 75
   file: chapters/0075-75.html
   format: sanitized-html
+  share_card: null
 - id: 76
   title: Xu Gongming Battles on the Mian River and Guan Yunchang Is Routed from Maicheng
   position: 76
   file: chapters/0076-76.html
   format: sanitized-html
+  share_card: null
 - id: 77
   title: Guan Yu Reveals His Sanctity at Jade Spring Mountain; Cao Cao Is Aware of
     the Divine in Luoyang
   position: 77
   file: chapters/0077-77.html
   format: sanitized-html
+  share_card: null
 - id: 78
   title: Treating the Wind Illness, the Divine Physician Dies; Giving His Last Commands,
     the Treacherous Hero Meets His End
   position: 78
   file: chapters/0078-78.html
   format: sanitized-html
+  share_card: null
 - id: 79
   title: Elder Brother Presses Younger Brother to Compose Verse; Nephew Entraps Uncle
     and Liu Feng Is Condemned
   position: 79
   file: chapters/0079-79.html
   format: sanitized-html
+  share_card: null
 - id: 80
   title: Cao Pi Forces the Han Emperor to Yield the Throne, and the King of Han Restores
     the Lineage
   position: 80
   file: chapters/0080-80.html
   format: sanitized-html
+  share_card: null
 - id: 81
   title: Hastening to Avenge His Brother, Zhang Fei Meets His End; Redressing His
     Brother's Wrong, the Former Lord Raises an Army
   position: 81
   file: chapters/0081-81.html
   format: sanitized-html
+  share_card: null
 - id: 82
   title: Sun Quan Submits to Wei and Receives the Nine Seals; the Former Lord Marches
     on Wu and Rewards the Six Armies
   position: 82
   file: chapters/0082-82.html
   format: sanitized-html
+  share_card: null
 - id: 83
   title: 'Battle at Xiaoting: The Lord Wins Vengeance; at Jiangkou, a Scholar Is Made
     Great Commander'
   position: 83
   file: chapters/0083-83.html
   format: sanitized-html
+  share_card: null
 - id: 84
   title: Lu Xun Camps and Burns Seven Hundred Li; Kongming Wields the Eight-Array
     Diagram
   position: 84
   file: chapters/0084-84.html
   format: sanitized-html
+  share_card: null
 - id: 85
   title: The Former Lord Liu Issues His Last Edict and Entrusts the Child-Heir; Zhuge
     Liang Calms and Guards Against Five Fronts
   position: 85
   file: chapters/0085-85.html
   format: sanitized-html
+  share_card: null
 - id: 86
   title: The Peril of Zhang Wen and Qin Mi in Heavenly Disputation; Xu Sheng’s Fire
     Attack on Cao Pi
   position: 86
   file: chapters/0086-86.html
   format: sanitized-html
+  share_card: null
 - id: 87
   title: The Chancellor Raises a Great Army to Pacify the Southern Rebels, and the
     Barbarian King Is Captured First
   position: 87
   file: chapters/0087-87.html
   format: sanitized-html
+  share_card: null
 - id: 88
   title: Crossing the Lu River Again to Bind the Southern King, Detecting Feigned
     Surrender, and Capturing Meng Huo Three Times
   position: 88
   file: chapters/0088-88.html
   format: sanitized-html
+  share_card: null
 - id: 89
   title: The Wuxiang Marquis Uses Four Stratagems, and the King of the Southern Barbarians
     Is Captured Five Times
   position: 89
   file: chapters/0089-89.html
   format: sanitized-html
+  share_card: null
 - id: 90
   title: Driving the Giant Beasts and Breaking the Barbarians in Six Encounters, Burning
     the Rattan Armor, and Capturing Meng Huo Seven Times
   position: 90
   file: chapters/0090-90.html
   format: sanitized-html
+  share_card: null
 - id: 91
   title: Sacrificing at the Lu River, the Han Chancellor Returns His Army; Marching
     on the Central Plains, the Marquis of Wuhou Presents His Memorial
   position: 91
   file: chapters/0091-91.html
   format: sanitized-html
+  share_card: null
 - id: 92
   title: Zhao Yun Slays Five Generals; Zhuge Liang Takes Three Cities by Stratagem
   position: 92
   file: chapters/0092-92.html
   format: sanitized-html
+  share_card: null
 - id: 93
   title: Jiang Wei Joins Zhuge Liang; The Marquis of Wuxiang Curses Wang Lang to Death
   position: 93
   file: chapters/0093-93.html
   format: sanitized-html
+  share_card: null
 - id: 94
   title: Zhuge Liang Uses Snow to Break the Qiang Forces; Sima Yi Arrives in Time
     to Capture Meng Da
   position: 94
   file: chapters/0094-94.html
   format: sanitized-html
+  share_card: null
 - id: 95
   title: Ma Su Rejects Counsel and Loses Jieting; the Marquis of Wuhou Plays the Qin
     to Send Back Sima Yi
   position: 95
   file: chapters/0095-95.html
   format: sanitized-html
+  share_card: null
 - id: 96
   title: Kongming Weeps and Beheads Ma Shu; Zhou Fang Cuts His Hair to Trick Cao Xiu
   position: 96
   file: chapters/0096-96.html
   format: sanitized-html
+  share_card: null
 - id: 97
   title: The Wuhou Submits Another Memorial to Attack Wei; Jiang Wei Deceives with
     a False Letter
   position: 97
   file: chapters/0097-97.html
   format: sanitized-html
+  share_card: null
 - id: 98
   title: Wang Shuang Is Executed, and Wuhou Triumphs at Chen Cang
   position: 98
   file: chapters/0098-98.html
   format: sanitized-html
+  share_card: null
 - id: 99
   title: Zhuge Liang Crushes the Wei Army and Sima Yi Ravages Western Shu
   position: 99
   file: chapters/0099-99.html
   format: sanitized-html
+  share_card: null
 - id: 100
   title: Han Troops Raid the Camp and Defeat Cao Zhen; Wuhou Tests Formations and
     Humiliates Zhongda
   position: 100
   file: chapters/0100-100.html
   format: sanitized-html
+  share_card: null
 - id: 101
   title: Zhuge Appears in Spirit-like Guise Above Longshang; Zhang He Is Caught Off
     Guard at Jianmen Pass
   position: 101
   file: chapters/0101-101.html
   format: sanitized-html
+  share_card: null
 - id: 102
   title: Sima Yi Fortifies Beiyuan’s Wei Bridge, and Zhuge Liang Builds Wooden Oxen
     and Flowing Horses
   position: 102
   file: chapters/0102-102.html
   format: sanitized-html
+  share_card: null
 - id: 103
   title: Sima Is Trapped in Shangfang Valley; Zhuge Liang Wards Off the Stars on Wuzhang
     Plain
   position: 103
   file: chapters/0103-103.html
   format: sanitized-html
+  share_card: null
 - id: 104
   title: A Great Star Falls; the Han Chancellor Returns to Heaven, and a Wooden Effigy
     Makes the Wei Commander-in-Chief Lose His Nerve
   position: 104
   file: chapters/0104-104.html
   format: sanitized-html
+  share_card: null
 - id: 105
   title: Zhuge Liang Prepares a Preemptive Secret-Pouch Stratagem, and the Wei Emperor
     Removes the Dewy Disc
   position: 105
   file: chapters/0105-105.html
   format: sanitized-html
+  share_card: null
 - id: 106
   title: Gongsun Yuan is Defeated at Xiangping and Sima Yi Feigns Illness to Outwit
     Cao Shuang
   position: 106
   file: chapters/0106-106.html
   format: sanitized-html
+  share_card: null
 - id: 107
   title: Power under the Wei Lord Returns to the Sima Clan; Jiang Wei Is Defeated
     at Niutou Mountain
   position: 107
   file: chapters/0107-107.html
   format: sanitized-html
+  share_card: null
 - id: 108
   title: Ding Feng Draws His Short Weapons in the Snow, Sun Jun Sets a Covert Plot
     in the Hall
   position: 108
   file: chapters/0108-108.html
   format: sanitized-html
+  share_card: null
 - id: 109
   title: To Trap Sima, a Han General Uses a Wondrous Stratagem; Cao Fang Is Deposed,
     Requiting the House of Wei
   position: 109
   file: chapters/0109-109.html
   format: sanitized-html
+  share_card: null
 - id: 110
   title: Wenyang Alone Turns Back the Great Army; Jiang Wei Breaks the Great Enemy
     at the River’s Back
   position: 110
   file: chapters/0110-110.html
   format: sanitized-html
+  share_card: null
 - id: 111
   title: Deng Shizai Cleverly Captures Jiang Boyue; Zhuge Dan Righteously Punishes
     Sima Zhao
   position: 111
   file: chapters/0111-111.html
   format: sanitized-html
+  share_card: null
 - id: 112
   title: At the Rescue of Shouchun, Yu Quan Dies for Honor; At the Great Wall, Boyue
     Wages Fierce Battle
   position: 112
   file: chapters/0112-112.html
   format: sanitized-html
+  share_card: null
 - id: 113
   title: Ding Feng Devises a Plan and Executes Sun Chen; Jiang Wei Contests Formations
     and Defeats Deng Ai
   position: 113
   file: chapters/0113-113.html
   format: sanitized-html
+  share_card: null
 - id: 114
   title: Cao Mao Rides Out and Dies at Nanque; Jiang Wei Abandons Grain and Defeats
     Wei Troops
   position: 114
   file: chapters/0114-114.html
   format: sanitized-html
+  share_card: null
 - id: 115
   title: The Latter Ruler Believes Slanderous Counsel and Orders a Recall, and Jiang
     Wei Dodges Disaster Through Tuntian
   position: 115
   file: chapters/0115-115.html
   format: sanitized-html
+  share_card: null
 - id: 116
   title: Zhong Hui Splits His Forces Toward Hanzhong; Zhuge the Master Shows His Sacred
     Presence at Dingjun Mountain
   position: 116
   file: chapters/0116-116.html
   format: sanitized-html
+  share_card: null
 - id: 117
   title: Deng Shizai Slips Across Yinping; Zhuge Zhan Dies at Mianzhu
   position: 117
   file: chapters/0117-117.html
   format: sanitized-html
+  share_card: null
 - id: 118
   title: A King Dies of Filial Loyalty, and Two Men in Western Shu Compete for Merit
   position: 118
   file: chapters/0118-118.html
   format: sanitized-html
+  share_card: null
 - id: 119
   title: Feigned Surrender and Crafty Stratagems, Empty Words; Accepting the Mandate
     Again by Copying the Old Pattern
   position: 119
   file: chapters/0119-119.html
   format: sanitized-html
+  share_card: null
 - id: 120
   title: Recommending Du Yu, the Veteran General Offers a New Plan; Sun Hao Surrenders,
     and the Three Kingdoms Return to One
   position: 120
   file: chapters/0120-120.html
   format: sanitized-html
+  share_card: null
